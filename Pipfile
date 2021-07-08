@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyzbar = "*"
+opencv-python = "*"
+base45 = "*"
+flynn = "*"
+qrcode = "*"
+image = "*"
+cose = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
